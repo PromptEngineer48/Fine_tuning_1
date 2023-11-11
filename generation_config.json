@@ -1,0 +1,5 @@
+{
+  "max_length": 100,
+  "num_beams": 1,
+  "temperature": 0.7
+}
